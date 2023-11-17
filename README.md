@@ -14,7 +14,6 @@
 * [Autores](#autores)
 
 # projeto escrita do README
-![capa do projeto](img/capa.png)
 ## descrição
 * site feito para construção de uma pagina de cadastro para o projeto cadastroEcomerce
 * pegamos uma pagina semifeita para mechermos nela
